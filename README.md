@@ -1,56 +1,368 @@
-# Faseeh Ullah Khan
+<!DOCTYPE html>
+<html lang="en">
 
-**MBA Candidate at NUST | Ex-Senior Assistant Manager Operations at TCS**
+<head>
 
-📍 Garden Town, Multan, Pakistan  
-📧 [faseeh1199@gmail.com](mailto:faseeh1199@gmail.com) | 📞 +923110636199
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
----
+<title>Faseeh Ullah Khan | Operations & Logistics Professional</title>
 
-## 🚀 Career Objective
-An ambitious and dedicated individual with a strong interest in sales and marketing. [cite_start]With a background in business administration and hands-on experience in negotiation and logistics, I am eager to apply my skills and contribute towards business growth and development. [cite: 4, 5]
+<meta name="description" content="Faseeh Ullah Khan – Operations and Logistics Professional specializing in delivery network management, operational analytics, KPI monitoring and supply chain optimization.">
 
----
+<meta name="keywords" content="Operations Manager, Logistics Manager, Supply Chain Analyst, Delivery Network, Operations Excellence, Excel Dashboards">
 
-## 🎓 Education
-* **MBA** | National University of Sciences and Technology (NUST) | [cite_start]*2025 – 2027* [cite: 7, 8, 9]
-* **BBA (Hons.)** | Institute of Management Sciences, BZU | [cite_start]*2019 – 2023* [cite: 11, 12, 13]
-    * [cite_start]**CGPA:** 3.40 [cite: 15]
+<meta name="author" content="Faseeh Ullah Khan">
 
----
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-## 💼 Professional Experience
+<style>
 
-### **TCS Private Limited — Multan, Pakistan**
-*Senior Assistant Manager Operations* | [cite_start]*Aug 2023 – Sept 2025* [cite: 19, 20]
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
 
-* [cite_start]**Project Leadership:** Successfully managed delivery for the Mega 34 Project (400,000+ shipments) with a 90%+ success rate. [cite: 23]
-* [cite_start]**Performance Optimization:** Improved Delivery Success Rate (DSR) for the Punjab Health Project from 68% to 86%. [cite: 38]
-* [cite_start]**Training & Mentorship:** Led the "Mr. TCS" flagship development program, grooming high-potential couriers in communication and sales fundamentals. [cite: 27, 28, 31]
-* [cite_start]**Data & Efficiency:** Developed automated dashboards in Excel to streamline daily reporting and decision-making. [cite: 24]
+body{
+background:#f4f6fb;
+color:#333;
+line-height:1.6;
+transition:0.4s;
+}
 
-### **METRO Cash & Carry Pakistan**
-*Apprentice* | [cite_start]*Aug 2023 – Sept 2023* [cite: 41]
+.dark{
+background:#121212;
+color:#eee;
+}
 
-* [cite_start]Reactivated 20+ dormant business accounts through structured outbound sales calls. [cite: 42]
-* [cite_start]Contributed to increasing customer basket size through cross-selling and upselling techniques. [cite: 45]
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px 20px;
+}
 
----
+header{
+background:#0b3d91;
+color:white;
+padding:80px 20px;
+text-align:center;
+}
 
-## 🛠 Skills
+header h1{
+font-size:48px;
+}
 
-### **Technical Skills**
-* [cite_start]**Data Analysis:** Microsoft Excel (Dashboards, Pivot Tables, Reporting), Data Analysis & Operational Reporting. [cite: 17]
-* [cite_start]**Systems:** Courier Logistics System (CLS), Microsoft Office Suite, Oracle (Financial Records). [cite: 17, 49]
-* [cite_start]**Marketing:** Digital Marketing Fundamentals, Web Copywriting. [cite: 58, 69]
+header p{
+margin-top:10px;
+font-size:18px;
+}
 
-### **Personal Skills**
-* [cite_start]Leadership & Team Management (Led teams of up to 11 members). [cite: 16, 61]
-* [cite_start]Effective Communication & Business Negotiation. [cite: 16, 47]
+.buttons{
+margin-top:25px;
+}
 
----
+.buttons a{
+text-decoration:none;
+margin:10px;
+padding:12px 22px;
+background:white;
+color:#0b3d91;
+border-radius:6px;
+font-weight:bold;
+}
 
-## 🏆 Certifications & Leadership
-* [cite_start]**Personal Branding:** How to Build Your Personal Brand – Nestle [cite: 70]
-* [cite_start]**Digital Marketing:** Fundamentals of Digital Marketing – IIDE [cite: 69]
-* [cite_start]**Extracurricular:** Head of Seminar and Workshop Wing – Executive Club (BZU). [cite: 59, 60]
+.dark .buttons a{
+background:#333;
+color:white;
+}
+
+section{
+margin-top:60px;
+}
+
+h2{
+margin-bottom:20px;
+color:#0b3d91;
+}
+
+.dark h2{
+color:#7aa2ff;
+}
+
+.card{
+background:white;
+padding:25px;
+margin-bottom:20px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+transition:0.4s;
+}
+
+.dark .card{
+background:#1e1e1e;
+}
+
+.skills span{
+display:inline-block;
+padding:8px 14px;
+background:#e5ebff;
+margin:5px;
+border-radius:20px;
+}
+
+.dark .skills span{
+background:#333;
+}
+
+.project-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.project{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+}
+
+.dark .project{
+background:#1e1e1e;
+}
+
+footer{
+text-align:center;
+padding:30px;
+margin-top:40px;
+background:#0b3d91;
+color:white;
+}
+
+.toggle{
+position:fixed;
+top:20px;
+right:20px;
+background:white;
+padding:10px;
+border-radius:50%;
+cursor:pointer;
+box-shadow:0 3px 8px rgba(0,0,0,0.2);
+}
+
+.dark .toggle{
+background:#333;
+color:white;
+}
+
+.fade{
+opacity:0;
+transform:translateY(20px);
+transition:1s;
+}
+
+.show{
+opacity:1;
+transform:translateY(0);
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<div class="toggle" onclick="toggleDark()">
+<i class="fas fa-moon"></i>
+</div>
+
+<header>
+
+<h1>Faseeh Ullah Khan</h1>
+
+<p>Operations & Logistics Professional</p>
+
+<p>Improving delivery networks, operational efficiency & KPI performance</p>
+
+<div class="buttons">
+
+<a href="mailto:faseeh1199@gmail.com">Contact Me</a>
+
+<a href="cv.pdf" download>Download CV</a>
+
+<a href="www.linkedin.com/in/faseehullah-khan" target="_blank">
+<i class="fab fa-linkedin"></i> LinkedIn
+</a>
+
+</div>
+
+</header>
+
+
+<div class="container">
+
+<section class="fade">
+
+<h2>Professional Summary</h2>
+
+<div class="card">
+
+Operations and logistics professional with experience managing delivery networks and operational KPIs in Pakistan’s leading logistics organization. Managed projects involving **400,000+ shipments** and improved operational performance through analytics dashboards and coordination across multiple branches. Currently pursuing **MBA in Operations Management**.
+
+</div>
+
+</section>
+
+
+<section class="fade">
+
+<h2>Professional Experience</h2>
+
+<div class="card">
+
+<h3>TCS Private Limited</h3>
+
+<p>Senior Assistant Manager Operations</p>
+
+<ul>
+
+<li>Managed Delivery Success Rate for COD, Express, Bulk and Daraz shipments.</li>
+
+<li>Coordinated **400,000+ shipments** under Mega 34 project.</li>
+
+<li>Developed automated Excel dashboards for operational monitoring.</li>
+
+<li>Reduced Over-KPI shipment cases through proactive monitoring.</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+<section class="fade">
+
+<h2>Skills</h2>
+
+<div class="skills">
+
+<span>Operations Management</span>
+<span>Supply Chain Operations</span>
+<span>Excel Dashboards</span>
+<span>Data Analysis</span>
+<span>Delivery Network Management</span>
+<span>Logistics Optimization</span>
+<span>Performance KPIs</span>
+
+</div>
+
+</section>
+
+
+<section class="fade">
+
+<h2>Projects Portfolio</h2>
+
+<div class="project-grid">
+
+<div class="project">
+
+<h3>Delivery KPI Dashboard</h3>
+
+<p>Excel dashboard used to monitor operational KPIs across delivery branches.</p>
+
+</div>
+
+<div class="project">
+
+<h3>Mega 34 Logistics Project</h3>
+
+<p>Successfully coordinated delivery of 400,000+ shipments with 90% success rate.</p>
+
+</div>
+
+<div class="project">
+
+<h3>Courier Training Program</h3>
+
+<p>Delivered operational training for couriers under Mr. TCS development program.</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="fade">
+
+<h2>Education</h2>
+
+<div class="card">
+
+MBA — Operations Management  
+NUST (2025–2027)
+
+</div>
+
+<div class="card">
+
+BBA (Hons) — Institute of Management Sciences BZU  
+CGPA 3.40
+
+</div>
+
+</section>
+
+
+<section class="fade">
+
+<h2>Contact</h2>
+
+<div class="card">
+
+📍 Multan, Pakistan  
+📧 faseeh1199@gmail.com  
+📞 +92 311 0636199
+
+</div>
+
+</section>
+
+</div>
+
+
+<footer>
+
+© 2026 Faseeh Ullah Khan
+
+</footer>
+
+
+<script>
+
+function toggleDark(){
+document.body.classList.toggle("dark")
+}
+
+const observer = new IntersectionObserver(entries => {
+entries.forEach(entry => {
+if(entry.isIntersecting){
+entry.target.classList.add("show")
+}
+})
+})
+
+document.querySelectorAll('.fade').forEach(el=>{
+observer.observe(el)
+})
+
+</script>
+
+
+</body>
+</html>
